@@ -1,11 +1,11 @@
-site_name: MobSciDat - Ressources Données de Mobilité
-site_url: https://cerema.github.io/mobscidat/
-site_description: Centre de ressources sur les données de mobilité - Cerema
+site_name: GT CNIG Données de Mobilité
+site_url: https://cerema.github.io/gt_cnig_mobilite/
+site_description: liste de propositions d'action autour des données de mobilité
 site_author: Cerema
 
 # Repository
-repo_name: CEREMA/mobscidat
-repo_url: https://github.com/CEREMA/mobscidat
+repo_name: CEREMA/gt_cnig_mobilite
+repo_url: https://github.com/CEREMA/gt_cnig_mobilite
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -99,7 +99,7 @@ extra:
 nav:
   - Accueil: index.md
 #  - Mots-clés: tags.md
-  - Types de données:
+  - Propositions d'actions:
       - données de référence  : types_donnees/reference.md
       - enquêtes : types_donnees/enquetes.md
       - OpenStreetMap : types_donnees/openstreetmap.md

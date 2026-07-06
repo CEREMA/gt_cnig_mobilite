@@ -100,16 +100,16 @@ nav:
   - Accueil: index.md
 #  - Mots-clés: tags.md
   - Propositions d'actions:
-    - Fret et logistique modèle de données : actions/MPMP-4.1_modele-donnees-transport-marchandises.md
-    - Fret et logistique registe des entrepôts : actions/MPMP-5.1_registre-entrepots-logistiques.md
-    - Fret et logistique atlas immo logistique : actions/MPMP-5.2_enrichissement-atlas-immobilier-logistique.md
-    - Fret et logistique plateforme d'échange de données : actions/MPMP-6.1_plateforme-nationale-echanges-donnees-logistique.md
-    - Fret et logistique : actions/MPMP-6.2_outils-visualisation-cartographie-logistique.md
-    - Fret et logistique : actions/MPMP-7.1_tableau-bord-national-logistique.md
-    - Fret et logistique : actions/MPMP-7.2_tableau-bord-personnalisable-logistique-filiere.md
-    - Fret et logistique : actions/MPMP-7.3_suivi-activites-transports-grands-chargeurs.md
-    - Fret et logistique : actions/MPMP-8.1_standard-donnees-acces-zfe.md
-    - Fret et logistique : actions/MPMP-9.1_base-donnees-consommation-energetique-navires.md
+    - Fret et logistique modèle de données : actions/MP-4.1_modele-donnees-transport-marchandises.md
+    - Fret et logistique registe des entrepôts : actions/MP-5.1_registre-entrepots-logistiques.md
+    - Fret et logistique atlas immo logistique : actions/MP-5.2_enrichissement-atlas-immobilier-logistique.md
+    - Fret et logistique plateforme d'échange de données : actions/MP-6.1_plateforme-nationale-echanges-donnees-logistique.md
+    - Fret et logistique : actions/MP-6.2_outils-visualisation-cartographie-logistique.md
+    - Fret et logistique : actions/MP-7.1_tableau-bord-national-logistique.md
+    - Fret et logistique : actions/MP-7.2_tableau-bord-personnalisable-logistique-filiere.md
+    - Fret et logistique : actions/MP-7.3_suivi-activites-transports-grands-chargeurs.md
+    - Fret et logistique : actions/MP-8.1_standard-donnees-acces-zfe.md
+    - Fret et logistique : actions/MP-9.1_base-donnees-consommation-energetique-navires.md
     - Mobilités : actions/SD-1.1_consolider-referentiel-points-arret.md
     - Mobilités : actions/SD-1.2_referentiel-routier-stationnement.md
     - Mobilités : actions/SD-2.1_information-te    - Fret et logistique : actions/MPMPs-reel-transport-public.md

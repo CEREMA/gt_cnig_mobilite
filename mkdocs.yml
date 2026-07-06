@@ -100,16 +100,3 @@ nav:
   - Accueil: index.md
 #  - Mots-clés: tags.md
   - Propositions d'actions:
-      - données de référence  : types_donnees/reference.md
-      - enquêtes : types_donnees/enquetes.md
-      - OpenStreetMap : types_donnees/openstreetmap.md
-      - voirie : types_donnees/voirie.md
-      - transport public : types_donnees/transportpublic.md
-      - vélo : types_donnees/velo.md
-      - trafic : types_donnees/trafic.md
-      - stationnement : types_donnees/stationnement.md
-      - covoiturage : types_donnees/covoiturage.md
-      - autopartage : types_donnees/autopartage.md
-      - accessibilité : types_donnees/accessibilite.md
-  - Types d'études: type_etudes/type_etudes.md
-  - Glossaires: glossaire/glossaire.md

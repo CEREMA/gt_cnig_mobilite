@@ -100,41 +100,41 @@ nav:
   - Accueil: index.md
 #  - Mots-clés: tags.md
   - Propositions d'actions:
-    - Fret et logistique modèle de données : docs/MPMP-4.1_modele-donnees-transport-marchandises.md
-    - Fret et logistique registe des entrepôts : docs/MPMP-5.1_registre-entrepots-logistiques.md
-    - Fret et logistique atlas immo logistique : docs/MPMP-5.2_enrichissement-atlas-immobilier-logistique.md
-    - Fret et logistique plateforme d'échange de données : docs/MPMP-6.1_plateforme-nationale-echanges-donnees-logistique.md
-    - Fret et logistique : docs/MPMP-6.2_outils-visualisation-cartographie-logistique.md
-    - Fret et logistique : docs/MPMP-7.1_tableau-bord-national-logistique.md
-    - Fret et logistique : docs/MPMP-7.2_tableau-bord-personnalisable-logistique-filiere.md
-    - Fret et logistique : docs/MPMP-7.3_suivi-activites-transports-grands-chargeurs.md
-    - Fret et logistique : docs/MPMP-8.1_standard-donnees-acces-zfe.md
-    - Fret et logistique : docs/MPMP-9.1_base-donnees-consommation-energetique-navires.md
-    - Mobilités : docs/SD-1.1_consolider-referentiel-points-arret.md
-    - Mobilités : docs/SD-1.2_referentiel-routier-stationnement.md
-    - Mobilités : docs/SD-2.1_information-te    - Fret et logistique : docs/MPMPs-reel-transport-public.md
-    - Mobilités : docs/SD-2.2_restrictions-circulation-dialog.md
-    - Mobilités : docs/SD-2.3_information-routiere-stationnement-te    - Fret et logistique : docs/MPMPs-reel.md
-    - Mobilités : docs/SD-3.1_obligations-donnees-privees-reglementations.md
-    - Mobilités : docs/SD-3.2_fonctionnalites-espace-donnees-mobilite.md
-    - Mobilités : docs/SD-3.3_lancement-espace-donnees-gouvernance.md
-    - Mobilités : docs/SD-4.1_developpement-outils-analyses-frequentation.md
-    - Mobilités : docs/SD-4.2_qualite-couverture-donnees-velos-libre-service.md
-    - Mobilités : docs/SD-4.3_integration-covoiturage-api-pan.md
-    - Mobilités : docs/SD-4.4_promotion-modes-decarbones-navigation.md
-    - Mobilités : docs/SD-4.5_api-controle-validite-permis-conduire.md
-    - Mobilités : docs/SD-5.1_api-vente-service-mobilite.md
-    - Mobilités : docs/SD-5.2_acces-donnees-usage-services-mobilite.md
-    - Mobilités : docs/SD-5.3_mon-co    - Fret et logistique : docs/MPMPte-mobilite-outils-numeriques.md
-    - Mobilités : docs/SD-6.1_titre-unique-service-national.md
-    - Mobilités : docs/SD-6.2_tarifs-mobilites-titre-unique.md
-    - Mobilités : docs/SD-6.3_gestion-aleas-trajets-multi-operateurs.md
-    - Mobilités : docs/SD-7.1_plan-action-mobilites-touristiques-durables.md
-    - Mobilités : docs/SD-7.2_qualite-donnees-points-interet-transport-durable.md
-    - Mobilités : docs/SD-7.3_solutions-numeriques-dernier-kilometre.md
-    - Mobilités : docs/SD-8.1_portail-open-data-planification-mobilites.md
-    - Mobilités : docs/SD-8.2_partage-donnees-usage-communaute-metier.md
-    - Mobilités : docs/SD-8.3_services-cloud-calcul-itineraires-isochrones.md
-    - Mobilités : docs/SD-8.4_services-cloud-modelisation-deplacements.md
-    - Mobilités : docs/SD-9.1_nouveaux-indicateurs-mobilite-durable.md
-    - Mobilités : docs/SD-9.2_cadre-legislatif-acces-siv.md
+    - Fret et logistique modèle de données : actions/MPMP-4.1_modele-donnees-transport-marchandises.md
+    - Fret et logistique registe des entrepôts : actions/MPMP-5.1_registre-entrepots-logistiques.md
+    - Fret et logistique atlas immo logistique : actions/MPMP-5.2_enrichissement-atlas-immobilier-logistique.md
+    - Fret et logistique plateforme d'échange de données : actions/MPMP-6.1_plateforme-nationale-echanges-donnees-logistique.md
+    - Fret et logistique : actions/MPMP-6.2_outils-visualisation-cartographie-logistique.md
+    - Fret et logistique : actions/MPMP-7.1_tableau-bord-national-logistique.md
+    - Fret et logistique : actions/MPMP-7.2_tableau-bord-personnalisable-logistique-filiere.md
+    - Fret et logistique : actions/MPMP-7.3_suivi-activites-transports-grands-chargeurs.md
+    - Fret et logistique : actions/MPMP-8.1_standard-donnees-acces-zfe.md
+    - Fret et logistique : actions/MPMP-9.1_base-donnees-consommation-energetique-navires.md
+    - Mobilités : actions/SD-1.1_consolider-referentiel-points-arret.md
+    - Mobilités : actions/SD-1.2_referentiel-routier-stationnement.md
+    - Mobilités : actions/SD-2.1_information-te    - Fret et logistique : actions/MPMPs-reel-transport-public.md
+    - Mobilités : actions/SD-2.2_restrictions-circulation-dialog.md
+    - Mobilités : actions/SD-2.3_information-routiere-stationnement-te    - Fret et logistique : actions/MPMPs-reel.md
+    - Mobilités : actions/SD-3.1_obligations-donnees-privees-reglementations.md
+    - Mobilités : actions/SD-3.2_fonctionnalites-espace-donnees-mobilite.md
+    - Mobilités : actions/SD-3.3_lancement-espace-donnees-gouvernance.md
+    - Mobilités : actions/SD-4.1_developpement-outils-analyses-frequentation.md
+    - Mobilités : actions/SD-4.2_qualite-couverture-donnees-velos-libre-service.md
+    - Mobilités : actions/SD-4.3_integration-covoiturage-api-pan.md
+    - Mobilités : actions/SD-4.4_promotion-modes-decarbones-navigation.md
+    - Mobilités : actions/SD-4.5_api-controle-validite-permis-conduire.md
+    - Mobilités : actions/SD-5.1_api-vente-service-mobilite.md
+    - Mobilités : actions/SD-5.2_acces-donnees-usage-services-mobilite.md
+    - Mobilités : actions/SD-5.3_mon-co    - Fret et logistique : actions/MPMPte-mobilite-outils-numeriques.md
+    - Mobilités : actions/SD-6.1_titre-unique-service-national.md
+    - Mobilités : actions/SD-6.2_tarifs-mobilites-titre-unique.md
+    - Mobilités : actions/SD-6.3_gestion-aleas-trajets-multi-operateurs.md
+    - Mobilités : actions/SD-7.1_plan-action-mobilites-touristiques-durables.md
+    - Mobilités : actions/SD-7.2_qualite-donnees-points-interet-transport-durable.md
+    - Mobilités : actions/SD-7.3_solutions-numeriques-dernier-kilometre.md
+    - Mobilités : actions/SD-8.1_portail-open-data-planification-mobilites.md
+    - Mobilités : actions/SD-8.2_partage-donnees-usage-communaute-metier.md
+    - Mobilités : actions/SD-8.3_services-cloud-calcul-itineraires-isochrones.md
+    - Mobilités : actions/SD-8.4_services-cloud-modelisation-deplacements.md
+    - Mobilités : actions/SD-9.1_nouveaux-indicateurs-mobilite-durable.md
+    - Mobilités : actions/SD-9.2_cadre-legislatif-acces-siv.md

@@ -100,3 +100,41 @@ nav:
   - Accueil: index.md
 #  - Mots-clés: tags.md
   - Propositions d'actions:
+    - Fret modèle de données : MP-4.1_modele-donnees-transport-marchandises.md
+    - Fret registe des entrepôts : MP-5.1_registre-entrepots-logistiques.md
+    - Fret atlas foncier logistique : MP-5.2_enrichissement-atlas-immobilier-logistique.md
+    - Fret plateforme d'échange de données : MP-6.1_plateforme-nationale-echanges-donnees-logistique.md
+    - MP-6.2_outils-visualisation-cartographie-logistique.md
+    - MP-7.1_tableau-bord-national-logistique.md
+    - MP-7.2_tableau-bord-personnalisable-logistique-filiere.md
+    - MP-7.3_suivi-activites-transports-grands-chargeurs.md
+    - MP-8.1_standard-donnees-acces-zfe.md
+    - MP-9.1_base-donnees-consommation-energetique-navires.md
+    - SD-1.1_consolider-referentiel-points-arret.md
+    - SD-1.2_referentiel-routier-stationnement.md
+    - SD-2.1_information-te    - MPs-reel-transport-public.md
+    - SD-2.2_restrictions-circulation-dialog.md
+    - SD-2.3_information-routiere-stationnement-te    - MPs-reel.md
+    - SD-3.1_obligations-donnees-privees-reglementations.md
+    - SD-3.2_fonctionnalites-espace-donnees-mobilite.md
+    - SD-3.3_lancement-espace-donnees-gouvernance.md
+    - SD-4.1_developpement-outils-analyses-frequentation.md
+    - SD-4.2_qualite-couverture-donnees-velos-libre-service.md
+    - SD-4.3_integration-covoiturage-api-pan.md
+    - SD-4.4_promotion-modes-decarbones-navigation.md
+    - SD-4.5_api-controle-validite-permis-conduire.md
+    - SD-5.1_api-vente-service-mobilite.md
+    - SD-5.2_acces-donnees-usage-services-mobilite.md
+    - SD-5.3_mon-co    - MPte-mobilite-outils-numeriques.md
+    - SD-6.1_titre-unique-service-national.md
+    - SD-6.2_tarifs-mobilites-titre-unique.md
+    - SD-6.3_gestion-aleas-trajets-multi-operateurs.md
+    - SD-7.1_plan-action-mobilites-touristiques-durables.md
+    - SD-7.2_qualite-donnees-points-interet-transport-durable.md
+    - SD-7.3_solutions-numeriques-dernier-kilometre.md
+    - SD-8.1_portail-open-data-planification-mobilites.md
+    - SD-8.2_partage-donnees-usage-communaute-metier.md
+    - SD-8.3_services-cloud-calcul-itineraires-isochrones.md
+    - SD-8.4_services-cloud-modelisation-deplacements.md
+    - SD-9.1_nouveaux-indicateurs-mobilite-durable.md
+    - SD-9.2_cadre-legislatif-acces-siv.md

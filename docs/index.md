@@ -1,24 +1,10 @@
-# MobSciDat – Liens utiles sur les données de mobilité
+# GT CNIG "données de mobilité"
 
-Ce site a pour objectif de partager des ressources utiles à propos des données de mobilité en France.
+Ce site a pour objectif de partager un recensement de propositions d'action relatives aux données de mobilité en France.
 
-Il offre une vision d’ensemble des types de données de mobilité et des types d’études associées, avec des pages thématiques fournissant infos et références concernant les principaux types de données utilisées dans les études.
+Il s'inscrit dans le cadre d'un GT du CNIG : cnig.gouv.fr/gt-mobilites-a30228.html 
 
-Ce travail est porté par le Cerema dans le cadre du projet [**MobSci-Dat Factory**](https://project.inria.fr/mobscidatfactory/).
-
-> **Version bêta.**  
-> site en cours de construction – les contenus sont en cours d’enrichissement et peuvent évoluer.
+> **Version alpha.**  
+> site en cours de construction 
 
 
-## À propos
-
-**MobSciDat Factory** est un projet de recherche consacré aux données de mobilité.
-Il vise à structurer, outiller et expérimenter des méthodes et des dispositifs favorisant la collecte, le partage et la valorisation de ces données, en lien étroit avec les besoins des acteurs du secteur.
-
-Le projet s’inscrit dans le cadre du [**PEPR Mobilités et Décarbonation (MobiDec)**](https://pepr-mobidec.fr/).
-
-
-## Les contributions sont bienvenues ! 
-Vous pouvez nous signaler de nouvelles données, de nouveaux liens utiles, proposer des mises à jour ou ajouter par exemple des tutoriels.
-
-N'hésitez pas à nous faire part de toute question ou [suggestion](https://github.com/CEREMA/mobscidat/issues), merci.

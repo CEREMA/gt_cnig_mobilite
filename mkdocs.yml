@@ -99,33 +99,33 @@ extra:
 nav:
   - Accueil: index.md
 #  - Mots-clés: tags.md
-  - Propositions d'actions:
+  - Propositions du référentiel d'actions numérique et données du SGPE:
     - Fret et logistique modèle de données : actions/MP-4.1_modele-donnees-transport-marchandises.md
     - Fret et logistique registe des entrepôts : actions/MP-5.1_registre-entrepots-logistiques.md
     - Fret et logistique atlas immo logistique : actions/MP-5.2_enrichissement-atlas-immobilier-logistique.md
     - Fret et logistique plateforme d'échange de données : actions/MP-6.1_plateforme-nationale-echanges-donnees-logistique.md
-    - Fret et logistique : actions/MP-6.2_outils-visualisation-cartographie-logistique.md
-    - Fret et logistique : actions/MP-7.1_tableau-bord-national-logistique.md
-    - Fret et logistique : actions/MP-7.2_tableau-bord-personnalisable-logistique-filiere.md
-    - Fret et logistique : actions/MP-7.3_suivi-activites-transports-grands-chargeurs.md
-    - Fret et logistique : actions/MP-8.1_standard-donnees-acces-zfe.md
-    - Fret et logistique : actions/MP-9.1_base-donnees-consommation-energetique-navires.md
-    - Mobilités : actions/SD-1.1_consolider-referentiel-points-arret.md
-    - Mobilités : actions/SD-1.2_referentiel-routier-stationnement.md
-    - Mobilités : actions/SD-2.1_information-te    - Fret et logistique : actions/MPMPs-reel-transport-public.md
-    - Mobilités : actions/SD-2.2_restrictions-circulation-dialog.md
-    - Mobilités : actions/SD-2.3_information-routiere-stationnement-te    - Fret et logistique : actions/MPMPs-reel.md
-    - Mobilités : actions/SD-3.1_obligations-donnees-privees-reglementations.md
-    - Mobilités : actions/SD-3.2_fonctionnalites-espace-donnees-mobilite.md
-    - Mobilités : actions/SD-3.3_lancement-espace-donnees-gouvernance.md
-    - Mobilités : actions/SD-4.1_developpement-outils-analyses-frequentation.md
-    - Mobilités : actions/SD-4.2_qualite-couverture-donnees-velos-libre-service.md
-    - Mobilités : actions/SD-4.3_integration-covoiturage-api-pan.md
-    - Mobilités : actions/SD-4.4_promotion-modes-decarbones-navigation.md
+    - Fret et logistique visualisation carto : actions/MP-6.2_outils-visualisation-cartographie-logistique.md
+    - Fret et logistique TDB national : actions/MP-7.1_tableau-bord-national-logistique.md
+    - Fret et logistique TDB par filière : actions/MP-7.2_tableau-bord-personnalisable-logistique-filiere.md
+    - Fret et logistique suivi grands chargeurs : actions/MP-7.3_suivi-activites-transports-grands-chargeurs.md
+    - Fret et logistique standard données accès ZFE : actions/MP-8.1_standard-donnees-acces-zfe.md
+    - Fret et logistique BD conso navires : actions/MP-9.1_base-donnees-consommation-energetique-navires.md
+    - Mobilités référientiel arrêts TC : actions/SD-1.1_consolider-referentiel-points-arret.md
+    - Mobilités référentiels route et stationnement : actions/SD-1.2_referentiel-routier-stationnement.md
+    - Mobilités info t réel TC : actions/SD-2.1_information-temps-reel-transport-public.md
+    - Mobilités données restrictions de circulation : actions/SD-2.2_restrictions-circulation-dialog.md
+    - Mobilités info réel routière et stationnement : actions/SD-2.3_information-routiere-stationnement-temps-reel.md
+    - Mobilités obligations réglementaires : actions/SD-3.1_obligations-donnees-privees-reglementations.md
+    - Mobilités espace de données routières : actions/SD-3.2_fonctionnalites-espace-donnees-mobilite.md
+    - Mobilités gouvernant espace de données : actions/SD-3.3_lancement-espace-donnees-gouvernance.md
+    - Mobilités outils d'analyse : actions/SD-4.1_developpement-outils-analyses-frequentation.md
+    - Mobilités données VLS : actions/SD-4.2_qualite-couverture-donnees-velos-libre-service.md
+    - Mobilités données covoiturage : actions/SD-4.3_integration-covoiturage-api-pan.md
+    - Mobilités services numériques et décarbonation : actions/SD-4.4_promotion-modes-decarbones-navigation.md
     - Mobilités : actions/SD-4.5_api-controle-validite-permis-conduire.md
     - Mobilités : actions/SD-5.1_api-vente-service-mobilite.md
     - Mobilités : actions/SD-5.2_acces-donnees-usage-services-mobilite.md
-    - Mobilités : actions/SD-5.3_mon-co    - Fret et logistique : actions/MPMPte-mobilite-outils-numeriques.md
+    - Mobilités : actions/SD-5.3_mon-compte-mobilite-outils-numeriques.md
     - Mobilités : actions/SD-6.1_titre-unique-service-national.md
     - Mobilités : actions/SD-6.2_tarifs-mobilites-titre-unique.md
     - Mobilités : actions/SD-6.3_gestion-aleas-trajets-multi-operateurs.md
